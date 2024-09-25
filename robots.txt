@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousivate.github.io/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/app/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/assets/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/css/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/data/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/includes/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/item/sitemap.ousivate.gz
+Sitemap: https://ousivate.github.io/src/sitemap.ousivate.gz
